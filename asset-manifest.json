@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.1191b358.chunk.js",
-    "main.js.map": "/static/js/main.1191b358.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ddf0f260.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ddf0f260.js.map",
-    "static/css/2.d7c8d3c0.chunk.css": "/static/css/2.d7c8d3c0.chunk.css",
-    "static/js/2.04a95bce.chunk.js": "/static/js/2.04a95bce.chunk.js",
-    "static/js/2.04a95bce.chunk.js.map": "/static/js/2.04a95bce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f363fff2dd8769e412b001f67eb145d4.js": "/precache-manifest.f363fff2dd8769e412b001f67eb145d4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d7c8d3c0.chunk.css.map": "/static/css/2.d7c8d3c0.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.04a95bce.chunk.js.LICENSE.txt": "/static/js/2.04a95bce.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/fcc_randomquotemachine/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/fcc_randomquotemachine/static/js/main.26db649e.chunk.js",
+    "main.js.map": "/fcc_randomquotemachine/static/js/main.26db649e.chunk.js.map",
+    "runtime-main.js": "/fcc_randomquotemachine/static/js/runtime-main.3e253179.js",
+    "runtime-main.js.map": "/fcc_randomquotemachine/static/js/runtime-main.3e253179.js.map",
+    "static/css/2.6b063c02.chunk.css": "/fcc_randomquotemachine/static/css/2.6b063c02.chunk.css",
+    "static/js/2.04a95bce.chunk.js": "/fcc_randomquotemachine/static/js/2.04a95bce.chunk.js",
+    "static/js/2.04a95bce.chunk.js.map": "/fcc_randomquotemachine/static/js/2.04a95bce.chunk.js.map",
+    "index.html": "/fcc_randomquotemachine/index.html",
+    "precache-manifest.f848fffca9cb66166add8030030f674a.js": "/fcc_randomquotemachine/precache-manifest.f848fffca9cb66166add8030030f674a.js",
+    "service-worker.js": "/fcc_randomquotemachine/service-worker.js",
+    "static/css/2.6b063c02.chunk.css.map": "/fcc_randomquotemachine/static/css/2.6b063c02.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/fcc_randomquotemachine/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.04a95bce.chunk.js.LICENSE.txt": "/fcc_randomquotemachine/static/js/2.04a95bce.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/fcc_randomquotemachine/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddf0f260.js",
-    "static/css/2.d7c8d3c0.chunk.css",
+    "static/js/runtime-main.3e253179.js",
+    "static/css/2.6b063c02.chunk.css",
     "static/js/2.04a95bce.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1191b358.chunk.js"
+    "static/js/main.26db649e.chunk.js"
   ]
 }
